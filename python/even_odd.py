@@ -2,7 +2,7 @@
 
 def even_odd(x):
     # Todo: Code to determine & print even or odd
-    if(x % 2 == 0):
+    if(x % 2 =sddddddddddddddddddddd= 0):
         print("The number is Even")
     else:
         print("The number is Odd")
